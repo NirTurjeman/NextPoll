@@ -1,0 +1,61 @@
+10
+Tomer Levi
+1985 5 15
+Tel-Aviv/HaAliya/32
+534567890
+tomerlevi@example.com
+100000009
+Sara Cohen
+2022 11 22
+Tel-Aviv/Balfour/45
+523344556
+sarac@example.com
+100000017
+Yael Bar
+1990 3 6
+Tel-Aviv/Shlomo Hamelech/10
+541234567
+yaelbar@example.com
+100000025
+Eitan Golan
+2021 9 17
+Tel-Aviv/Yoseftal/118
+539876543
+eitang@example.com
+100000033
+Maya Shavit
+2020 12 5
+Tel-Aviv/Zabotinski/8
+526677889
+mayas@example.com
+100000041
+Ronen Peretz
+1978 7 23
+Tel-Aviv/Hertzel/67
+531122334
+ronenp@example.com
+100000058
+Dana Keren
+1999 4 18
+Tel-Aviv/Sokolov/19
+525566778
+danak@example.com
+100000066
+Omer Adam
+1988 2 28
+Tel-Aviv/Bar Ilan/5
+539988776
+omera@example.com
+100000074
+Tal Gilad
+1993 8 14
+Tel-Aviv/Rothschild/33
+541122233
+talg@example.com
+100000082
+Neta Moshe
+1986 10 9
+Tel-Aviv/King George/77
+522244668
+netam@example.com
+100000090

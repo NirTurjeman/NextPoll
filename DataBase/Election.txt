@@ -1,0 +1,102 @@
+2025 5 25
+1
+3
+7
+Tomer Levi
+1985 5 15
+Tel-Aviv/HaAliya/32
+534567890
+tomerlevi@example.com
+100000009
+0
+0
+4
+14:0
+11:0
+15:0
+15:0
+0
+Yael Bar
+1990 3 6
+Tel-Aviv/Shlomo Hamelech/10
+541234567
+yaelbar@example.com
+100000025
+0
+0
+4
+17:0
+9:0
+16:0
+15:0
+0
+Ronen Peretz
+1978 7 23
+Tel-Aviv/Hertzel/67
+531122334
+ronenp@example.com
+100000058
+0
+0
+4
+11:0
+7:0
+12:0
+19:0
+0
+Dana Keren
+1999 4 18
+Tel-Aviv/Sokolov/19
+525566778
+danak@example.com
+100000066
+0
+0
+4
+9:0
+19:0
+14:0
+11:0
+0
+Omer Adam
+1988 2 28
+Tel-Aviv/Bar Ilan/5
+539988776
+omera@example.com
+100000074
+0
+0
+4
+17:0
+14:0
+10:0
+16:0
+0
+Tal Gilad
+1993 8 14
+Tel-Aviv/Rothschild/33
+541122233
+talg@example.com
+100000082
+0
+0
+4
+9:0
+17:0
+10:0
+16:0
+0
+Neta Moshe
+1986 10 9
+Tel-Aviv/King George/77
+522244668
+netam@example.com
+100000090
+0
+0
+4
+10:0
+18:0
+18:0
+12:0
+0
